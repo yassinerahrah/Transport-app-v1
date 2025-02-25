@@ -18,7 +18,7 @@ function App() {
         <nav className="relative z-10 flex justify-between items-center px-6 py-4 max-w-7xl mx-auto">
           <div className="flex items-center space-x-2 text-white">
             <Truck className="h-8 w-8" />
-            <span className="text-2xl font-bold">EcoMove</span>
+            <span className="text-2xl font-bold">Ecomove</span>
           </div>
           <div className="hidden md:flex space-x-8 text-white">
             <a href="#process" className="hover:text-blue-400 transition">Processus</a>
@@ -245,7 +245,7 @@ function App() {
                 <MapPin className="h-6 w-6 text-blue-600 flex-shrink-0" />
                 <div>
                   <h3 className="font-semibold">Adresse</h3>
-                  <p className="text-gray-600">123 Rue du Commerce, 75001 Paris</p>
+                  <p className="text-gray-600">123 Rue du Commerce, 34000 Montpellier</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -274,7 +274,7 @@ function App() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Truck className="h-6 w-6" />
-                <span className="text-xl font-bold">EcoMove</span>
+                <span className="text-xl font-bold">Ecomove</span>
               </div>
               <p className="text-gray-400">
                 La solution intelligente pour la gestion de vos livraisons
@@ -299,7 +299,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 EcoMove. Tous droits réservés.</p>
+            <p>&copy; 2024 Ecomove. Tous droits réservés.</p>
           </div>
         </div>
       </footer>
